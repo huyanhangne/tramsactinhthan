@@ -1,0 +1,6 @@
+{
+  "name": "Trạm Sạc Tinh Thần",
+  "description": "Trạm Sạc Tinh Thần - Nạp Vitamin Sea & Lời chúc động lực ngẫu nhiên xả stress",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
